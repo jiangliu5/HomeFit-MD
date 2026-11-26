@@ -1,6 +1,10 @@
 # HomeFit-MD
 This is the code for "HomeFit-MD: Expert-Perceived Multi-Dimensional Action Quality Assessment for Home-based Exercises".
 
+## 12 Exercises
+
+![12-exercise templates](assets/12_exercises.gif)
+
 ## Dataset
 
 ![Dataset](Dataset.png)
